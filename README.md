@@ -5,7 +5,7 @@
 Projeto site de ecommerce nome/marca Bikcraft.
 Esse projeto foi desenvolvido junto ao curso de Front-end da Origamid.
 
-> Acesse em: [Bikcraft](https://jhonatan-777.github.io/projeto-kumo/ "Projeto Bikcraft")
+> Acesse em: [Bikcraft](https://jhonatan-777.github.io/projeto-bikcraft/ "Projeto Bikcraft")
 
 Nele criamos a página de um site ecommerce de bikes. O site é composto por uma pagina principal, pagina bicicletas, pagina seguros, pagina de orçamento, pagina contato e pagina com termos e condições:
 
